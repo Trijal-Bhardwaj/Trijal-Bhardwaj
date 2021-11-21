@@ -1,5 +1,5 @@
 ![Trijal Bhardwaj](https://socialify.git.ci/Trijal-Bhardwaj/macOS-Clone/image?description=1&descriptionEditable=A%20Full%20macOS%20UI%20Clone%20(Front-End)%20With%20Desktop%20%2B%20Dock%20%2B%20Apps%20%2B%20Games.%2015%25%20Faster%20Response%20Time%20than%20UI%20shared%20via%20VNC%2FRemote%20Desktop.&font=Raleway&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Dark)
-<h1 align="center">Hi Everyone👋, I'm Trijal Bhardwaj!</h1>
+<h1 align="center">Hello Everyone <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/hi.gif" width="30px">, I'm Trijal Bhardwaj!</h1>
 <h3 align="center">I am a Pre-Final Year B.Tech. Student At Maharaja Agrasen Institute of Technology (MAIT), Delhi. I am a Full-Stack Web Developer. I like Exploring New Tools, Technologies & Frameworks, Building Stuff and Solving Problems. I Work Mainly in MERN Stack. I like to Compete in Programming Contests and Solving Data Structures & Algorithmic Problems. You can Reach Out to Me through LinkedIn.</h3>
 <p></p>
 <p></p>
