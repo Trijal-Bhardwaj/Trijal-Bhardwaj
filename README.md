@@ -14,7 +14,7 @@
 
 - ⚡ Available For **Projects & Internship Oppurtunities**
 
-- 📫 Lets Connect At LinkedIn **[@trijal-bhardwaj](https://www.linkedin.com/in/trijal-bhardwaj/);**
+- 📫 Lets Connect At LinkedIn **[@trijal-bhardwaj](https://www.linkedin.com/in/trijal-bhardwaj/)**
 
 - 📫 How To Reach Me **trijalbhardwaj00@gmail.com**
 
