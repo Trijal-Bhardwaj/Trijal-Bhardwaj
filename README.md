@@ -3,7 +3,7 @@
 <h3 align="center">I'm A Pre-Final Year B.Tech. CSE Student At Maharaja Agrasen Institute of Technology (MAIT), Delhi. I'm A Full-Stack Developer. I Like Exploring New Tools, Technologies & Frameworks, Building Stuff & Solving DSA Problems. I Work Mainly in MERN Stack, Learning A Bit Everyday Through The Projects I Build. I Like To Participate & Compete In Programming Contests & Solving Data Structures & Algorithmic Problems. You Can Reach Out To Me Through LinkedIn.</h3>
 <p></p>
 <p></p>
-<p align="center "> <img src="https://komarev.com/ghpvc/?username=trijal-bhardwaj&label=GitHub%20Profile's%20Visitors%20Count&color=brightgreen&style=plastic" alt="Trijal_Bhardwaj" /></p>
+<p align="center "> <img src="https://komarev.com/ghpvc/?username=trijal-bhardwaj&label=Trijal's%20GitHub%20Profile%20Views&color=brightgreen&style=plastic" alt="Trijal_Bhardwaj" /></p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
 - 🔭 I’m Currently Building My **Compettitve Programming** Skills
@@ -14,7 +14,9 @@
 
 - ⚡ Available For **Projects & Internship Oppurtunities**
 
-- 📫 Reach Me At **trijalbhardwaj00@gmail.com**
+- 📫 Lets Connect At LinkedIn **[@trijal-bhardwaj](https://www.linkedin.com/in/trijal-bhardwaj/);**
+
+- 📫 How To Reach Me **trijalbhardwaj00@gmail.com**
 
 <h3 align="left">Connect With Me :</h3>
 <p align="left">
