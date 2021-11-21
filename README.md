@@ -27,7 +27,7 @@
 
 <h3 align="left">My Coding Profiles (Time To Judge Me 😂) :</h3>
 <a href="https://leetcode.com/Tri14Bhar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tri14_bhar" target="_blank"><img align="center" src="https://discuss.codechef.com/user_avatar/discuss.codechef.com/admin/45/52437_2.pngg" alt="codechef" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tri14_bhar" target="_blank"><img align="center" src="https://discuss.codechef.com/user_avatar/discuss.codechef.com/admin/45/52437_2.png" alt="codechef" height="30" width="40" /></a>
 
 </p>
 
