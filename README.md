@@ -4,7 +4,7 @@
 <p></p>
 <p></p>
 <p align="center "> <img src="https://komarev.com/ghpvc/?username=trijal-bhardwaj&label=GitHub%20Profile's%20Visitors%20Count&color=brightgreen&style=plastic" alt="Trijal_Bhardwaj" /></p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
 - 🔭 I’m Currently Building My **Compettitve Programming** Skills
 
