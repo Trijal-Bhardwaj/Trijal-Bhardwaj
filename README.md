@@ -1,11 +1,12 @@
 ![Trijal Bhardwaj](https://socialify.git.ci/Trijal-Bhardwaj/macOS-Clone/image?description=1&descriptionEditable=A%20Full%20macOS%20UI%20Clone%20(Front-End)%20With%20Desktop%20%2B%20Dock%20%2B%20Apps%20%2B%20Games.%2015%25%20Faster%20Response%20Time%20than%20UI%20shared%20via%20VNC%2FRemote%20Desktop.&font=Raleway&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Dark)
 <h1 align="center">Hello Everyone <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/hi.gif" width="30px">, I'm Trijal Bhardwaj!</h1>
-<h3 align="center">I am a Pre-Final Year B.Tech. Student At Maharaja Agrasen Institute of Technology (MAIT), Delhi. I am a Full-Stack Web Developer. I like Exploring New Tools, Technologies & Frameworks, Building Stuff and Solving Problems. I Work Mainly in MERN Stack. I like to Compete in Programming Contests and Solving Data Structures & Algorithmic Problems. You can Reach Out to Me through LinkedIn.</h3>
+<h3 align="center">I'm A Pre-Final Year B.Tech. CSE Student At Maharaja Agrasen Institute of Technology (MAIT), Delhi. I'm A Full-Stack Developer. I Like Exploring New Tools, Technologies & Frameworks, Building Stuff & Solving DSA Problems. I Work Mainly in MERN Stack, Learning A Bit Everyday Through The Projects I Build. I Like To Participate & Compete In Programming Contests & Solving Data Structures & Algorithmic Problems. You Can Reach Out To Me Through LinkedIn.</h3>
 <p></p>
 <p></p>
-<p align="center "> <img src="https://komarev.com/ghpvc/?username=trijal-bhardwaj&label=Trijal%20Bhardwaj's%20Profile%20Views&color=brightgreen&style=plastic" alt="Trijal_Bhardwaj" /></p>
+<p align="center "> <img src="https://komarev.com/ghpvc/?username=trijal-bhardwaj&label=GitHub%20Profile's%20Visitors%20Count&color=brightgreen&style=plastic" alt="Trijal_Bhardwaj" /></p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m Currently Working on My **Compettitve Programming** Skills
+- 🔭 I’m Currently Building My **Compettitve Programming** Skills
 
 - 🌱 I’m Currently Learning **Back-End Development**
 
