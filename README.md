@@ -35,7 +35,7 @@
 <h3 align="left">Programming Languages, Tech Stack, Tools, Technologies & FrameWorks :</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/html.gif" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/css.gif" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/js.webp" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/bootstrap.gif" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/doc" target="_blank"> <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/git.gif" width="35"> </a> <a href="https://docs.github.com/en" target="_blank"> <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/github.webp" width="35"> </a> <a href="https://docs.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://firebase.google.com/docs" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://devcenter.heroku.com/categories/reference" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a><a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   </p>
 
-# Github Activity📊:
+# My Github Activity📊:
 
 <table>
   <tr>
@@ -51,13 +51,13 @@
 
 
 
-# Productivity Stats📈:
+# My Productivity Stats📈:
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamsingh124&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trijal-bhardwaj&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
    <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=shivamsingh124&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=Trijal-Bhardwaj&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
   </td>
   </tr>
 </table>
@@ -65,4 +65,4 @@
 <br>
 
 ## Snake Eating My Contribution🤔
-![snake gif](https://github.com/shivamsingh124/shivamsingh124/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/trijal-bhardwaj/trijal-bhardwaj/blob/output/github-contribution-grid-snake.gif)
