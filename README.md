@@ -64,5 +64,5 @@
 
 <br>
 
-## Snake Eating My Contribution🤔
+## Snake Eating My Contribution Graph
 ![snake gif](https://github.com/trijal-bhardwaj/trijal-bhardwaj/blob/output/github-contribution-grid-snake.gif)
