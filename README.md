@@ -18,7 +18,7 @@
 
 - 📫 How To Reach Me **trijalbhardwaj00@gmail.com**
 
-<h3 align="left">Connect With Me :</h3>
+<h3 align="left">Connect With Me :</h3> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 <p align="left">
 
 <a href="https://github.com/Trijal-Bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivamsingh124/shivamsingh124/main/netlify.svg" alt="Trijal Bhardwaj" height="30" width="30" /></a>
