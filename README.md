@@ -4,13 +4,11 @@
 <p></p>
 <p></p>
 <p align="left "> <img src="https://komarev.com/ghpvc/?username=trijal-bhardwaj&label=Trijal's%20GitHub%20Profile%20Views&color=brightgreen&style=plastic" alt="Trijal_Bhardwaj" /></p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+
+- 🌱 I’m Currently Learning **Back-End Development In Java & Spring Boot** </br>
 
 - 🔭 I’m Currently Building My **Competitive Programming** Skills </br>
-
-- 🌱 I’m Currently Learning **Back-End Development In Java, Spring Boot** </br>
-
-- 🎓 I’m a **MERN Stack Developer** </br>
 
 - ⚡ Interested In & Available For **Projects & Full-Time Oppurtunities**
 
