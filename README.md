@@ -1,18 +1,18 @@
 ![Trijal Bhardwaj](https://socialify.git.ci/Trijal-Bhardwaj/macOS-Clone/image?description=1&descriptionEditable=A%20Full%20macOS%20UI%20Clone%20(Front-End)%20With%20Desktop%20%2B%20Dock%20%2B%20Apps%20%2B%20Games.%2015%25%20Faster%20Response%20Time%20than%20UI%20shared%20via%20VNC%2FRemote%20Desktop.&font=Raleway&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Dark)
 <h1 align="center">Hello Everyone <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/hi.gif" width="30px">, I'm Trijal Bhardwaj!</h1>
-<h3 align="center">I'm A Pre-Final Year B.Tech. CSE Student At Maharaja Agrasen Institute of Technology (MAIT), Delhi. I'm A Full-Stack Developer. I Like Exploring New Tools, Technologies & Frameworks, Building Stuff & Solving DSA Problems. I Work Mainly in MERN Stack, Learning A Bit Everyday Through The Projects I Build. I Like To Participate & Compete In Programming Contests & Solving Data Structures & Algorithmic Problems. You Can Reach Out To Me Through LinkedIn.</h3>
+<h3 align="center">Currently Working As A Software Engineer At S&p Global. Previously Worked At Blinkit/Zomato, LimeChat, Scaler (PepCoding). I'm A Full-Stack Developer. I Like Exploring New Tools, Technologies & Frameworks, Building Stuff & Solving DSA Problems. I Work in MERN Stack, Java Stack (Spring Boot), Learning A Bit Everyday Through The Projects I Contribute To. I Like To Participate & Compete In Programming Contests & Solving Data Structures & Algorithmic Problems (Rated Knight At LeetCode). You Can Reach Out To Me Through LinkedIn.</h3>
 <p></p>
 <p></p>
 <p align="left "> <img src="https://komarev.com/ghpvc/?username=trijal-bhardwaj&label=Trijal's%20GitHub%20Profile%20Views&color=brightgreen&style=plastic" alt="Trijal_Bhardwaj" /></p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
-- 🔭 I’m Currently Building My **Compettitve Programming** Skills
+- 🔭 I’m Currently Building My **Competitive Programming** Skills </br>
 
-- 🌱 I’m Currently Learning **Back-End Development**
+- 🌱 I’m Currently Learning **Back-End Development In Java, Spring Boot** </br>
 
-- 🎓 I’m a **MERN Stack Developer** (2023 Batch) </br>
+- 🎓 I’m a **MERN Stack Developer** </br>
 
-- ⚡ Available For **Projects & Internship Oppurtunities**
+- ⚡ Interested In & Available For **Projects & Full-Time Oppurtunities**
 
 - 📫 Lets Connect At LinkedIn **[@trijal-bhardwaj](https://www.linkedin.com/in/trijal-bhardwaj/)**
 
